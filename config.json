@@ -1,0 +1,13 @@
+{
+
+    
+    "token": "TOKEN_BOT",
+
+    "ipAddress": "mc.hypixel.net",
+    "port": "opcional - porta do servidor",
+    "playersChannel": "9802980280282",
+    "statusChannel": "3809390383",
+    "atualizar": "11min",
+
+    "prefix": "!"
+}
